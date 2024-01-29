@@ -1,0 +1,4 @@
+repository "NoNone_Cube_Anime@Ryuto1312@cloud"
+  path "/"
+    br "/main"
+    co "/main"
